@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main(void){
-    printf("Hello, Git!\n");
+    printf("Hello, Git!...Good bye World.\n");
 }
